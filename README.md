@@ -7,4 +7,4 @@ Van egy 9x9-es négyzetháló, amelynek minden négyzetén található egy "goly
 vehető le a tábláról, nem emelhető fel, de a szomszédos üres mezőre áttolható. (A golyókat elegendő számokkal jelölni: például 
 az 5,6-os pozícion levőt 56-tal.) A golyók mozgása jól látható legyen!
 
-!(mikrovilag_1992_aprilis_11_feladatkiiras.jpg)
+![](mikrovilag_1992_aprilis_11_feladatkiiras.jpg)
