@@ -4,12 +4,12 @@ using System.Collections.Generic;
 namespace mikrovilag_1991_verseny_golyo_feladat
 {
     class Program
-    {// proba branch
+    {// master branch
         static void Main(string[] args)
         {
             Console.Write("Melyik golyot? (x1 y1): ");  // console-ra irunk
           
-            string s = Console.ReadLine();      // new comment
+            string s = Console.ReadLine();     
             string[] ss = s.Split(" ");
             int x1 = Int32.Parse(ss[0]);
             int y1 = Int32.Parse(ss[1]);

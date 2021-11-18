@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mikrovilag-1991-verseny-golyo-feladat", "mikrovilag-1991-verseny-golyo-feladat.csproj", "{34128928-03B0-46FC-8C1B-68F89CDB5D63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34128928-03B0-46FC-8C1B-68F89CDB5D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34128928-03B0-46FC-8C1B-68F89CDB5D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34128928-03B0-46FC-8C1B-68F89CDB5D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34128928-03B0-46FC-8C1B-68F89CDB5D63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B171D1A5-F1C1-49B9-AEF0-4BC506EB28BF}
+	EndGlobalSection
+EndGlobal
