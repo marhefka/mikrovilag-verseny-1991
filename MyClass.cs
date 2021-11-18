@@ -5,6 +5,8 @@ namespace mikrovilag_1991_verseny_golyo_feladat
     {
         public MyClass()
         {
+
+            int x = 556;
         }
     }
 }
