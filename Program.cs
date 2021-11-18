@@ -22,6 +22,7 @@ namespace mikrovilag_1991_verseny_golyo_feladat
             int y2 = Int32.Parse(ss2[1]);
 
 
+            int z = 5;
             int a = MyClass.VALTOZO;
             int k = 1234;
             int ux = 9, uy = 9;
