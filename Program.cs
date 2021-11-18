@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace mikrovilag_1991_verseny_golyo_feladat
 {
     class Program
-    {
+    {// proba branch
         static void Main(string[] args)
         {
             Console.Write("Melyik golyot? (x1 y1): ");  // console-ra irunk
