@@ -21,6 +21,8 @@ namespace mikrovilag_1991_verseny_golyo_feladat
             int x2 = Int32.Parse(ss2[0]);
             int y2 = Int32.Parse(ss2[1]);
 
+
+            int k = 1234;
             int ux = 9, uy = 9;
 
             PrintState(x1, y1, x2, y2, ux, uy);
