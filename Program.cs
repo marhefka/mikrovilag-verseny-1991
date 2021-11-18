@@ -14,7 +14,7 @@ namespace mikrovilag_1991_verseny_golyo_feladat
             string[] ss = s.Split(" ");
             int x1 = Int32.Parse(ss[0]);
             int y1 = Int32.Parse(ss[1]);
-
+            // haho
             Console.Write("Melyik poziciora? (x2 y2): ");
             string s2 = Console.ReadLine();
             string[] ss2 = s2.Split(" ");
