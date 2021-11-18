@@ -7,7 +7,8 @@ namespace mikrovilag_1991_verseny_golyo_feladat
     {// master branch
         static void Main(string[] args)
         {
-            Console.Write("Melyik golyot? (x1 y1): ");  // console-ra irunk
+            Console.Write("Melyik golyot? (x1 y1): ");
+            Console.WriteLine();
           
             string s = Console.ReadLine();     
             string[] ss = s.Split(" ");
